@@ -2,7 +2,6 @@ const dotenv=require('dotenv');
 const mongoose=require('mongoose');
 dotenv.config({path: './.env'});
 
-
 const db=process.env.DATABASE ;
 const app=require(`${__dirname}/app`);
 
