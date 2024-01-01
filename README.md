@@ -23,7 +23,7 @@ These instructions will help you get your project up and running.
    ```bash
    npm install
 
-  3. Create config.env file to set environmental variables and the set the value of these variables
+  3. Create .env file to set environmental variables and the set the value of these variables
      1. NODE_ENV=DEVELOPMENT
      2. DATABASE_PASSWORD=PASSWORD FROM ATLAS CLOUD 
      3. DATABASE=URL
